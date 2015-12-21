@@ -1,10 +1,5 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: apple
- * Date: 18.12.15
- * Time: 00:53
- */
+
 $name = "Igor";
 $age = 23;
 echo "Menya zovut $name", "<br>";
